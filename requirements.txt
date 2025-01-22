@@ -1,0 +1,10 @@
+genanki
+PyPDF2
+python-pptx
+Pillow
+opencv-python
+spacy
+pytesseract
+numpy
+matplotlib
+pdfplumber
