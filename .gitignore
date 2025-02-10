@@ -13,3 +13,5 @@ Thumbs.db        # Windows system file
 # IGNORE logs + temp files
 *.log
 *.tmp
+
+# IGNORE test_env.py
