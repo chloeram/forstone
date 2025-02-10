@@ -1,0 +1,5 @@
+pdfplumber
+pptx
+sentence-transformers
+genanki
+spacy

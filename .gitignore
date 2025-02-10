@@ -1,0 +1,15 @@
+# IGNORE virtual environment directory
+env/
+
+# IGNORE Python bytecode files + caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IGNORE OS-generated files
+.DS_Store        # macOS system file
+Thumbs.db        # Windows system file
+
+# IGNORE logs + temp files
+*.log
+*.tmp
